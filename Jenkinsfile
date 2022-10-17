@@ -17,7 +17,7 @@ pipeline {
             }
 
            
-            }
+            
       post{
         
         success{
@@ -26,6 +26,7 @@ pipeline {
         }
         
       }
+        }
         }
     }
 
