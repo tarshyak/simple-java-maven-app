@@ -13,7 +13,8 @@ pipeline {
             
                 
                 git 'https://github.com/tarshyak/simple-java-maven-app.git'
-                sh "mvn package"
+                
+               sh "mvn clean install"
             }
 
            
