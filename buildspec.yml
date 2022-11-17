@@ -13,4 +13,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - messageUtil-1.0.jar
+    - jenkins/messageUtil-1.0.jar
