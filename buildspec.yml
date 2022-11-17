@@ -15,5 +15,5 @@ artifacts:
   files:
     - my-app-1.0-SNAPSHOT.jar
     - appsec.yml
-  discard-paths:yes
+  
     
