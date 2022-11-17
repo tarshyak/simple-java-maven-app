@@ -13,5 +13,7 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - discard-paths:yes
-    - messageUtil-1.0.jar
+    - my-app-1.0-SNAPSHOT.jar
+    - appsec.yml
+  discard-paths:yes
+    
